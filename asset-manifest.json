@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pavithrapakala/game/static/css/main.f6e52d85.css",
+    "main.js": "/pavithrapakala/game/static/js/main.e6e9499c.js",
+    "static/js/453.a5a72b74.chunk.js": "/pavithrapakala/game/static/js/453.a5a72b74.chunk.js",
+    "static/media/bg-pattern-dark.png": "/pavithrapakala/game/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/pavithrapakala/game/index.html",
+    "main.f6e52d85.css.map": "/pavithrapakala/game/static/css/main.f6e52d85.css.map",
+    "main.e6e9499c.js.map": "/pavithrapakala/game/static/js/main.e6e9499c.js.map",
+    "453.a5a72b74.chunk.js.map": "/pavithrapakala/game/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6e52d85.css",
+    "static/js/main.e6e9499c.js"
+  ]
+}
